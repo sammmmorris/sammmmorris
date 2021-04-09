@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things!
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on data analysis.
-- 📫 How to reach me. You can find me at SAM.BASEBALL147@gmail.com
+- 📫 How to reach me. You can find me at SAMANTHAMORRISV@gmail.com
 
 <!---
 sammmmorris/sammmmorris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
